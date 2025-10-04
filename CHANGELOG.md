@@ -2,6 +2,11 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.0.6] - 2025-10-04
+
+### Changed
+- Change terminal's colors according to the theme's color scheme
+
 ## [1.0-5] - 2025-10-04
 
 ### Changed
