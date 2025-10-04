@@ -4,7 +4,11 @@ All notable changes to the "orangebox-dark" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.3] - 2025-10-04
+
+### Changed
+- Screenshots updated in README.md for better representation of the theme
+
 
 ## [1.0.2] - 2025-10-04
 
