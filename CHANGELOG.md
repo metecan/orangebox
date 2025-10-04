@@ -2,6 +2,11 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.1.2] - 2025-10-04
+
+### Changed
+- Changed progress bar color to orange to match the theme's accent color
+
 ## [1.1.1] - 2025-10-04
 
 ### Changed

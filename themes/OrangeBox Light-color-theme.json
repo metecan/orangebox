@@ -37,6 +37,7 @@
     "menubar.selectionBackground": "#EE8241",
     "menubar.selectionForeground": "#ffffff",
     "panelTitle.activeBorder": "#EE8241",
+    "progressBar.background": "#EE8241",
     "scrollbarSlider.activeBackground": "#dda876",
     "scrollbarSlider.hoverBackground": "#EE8241",
     "selection.background": "#EE8241",
