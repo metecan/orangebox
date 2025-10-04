@@ -10,6 +10,8 @@ A carefully crafted dark theme for Visual Studio Code with warm orange accents f
 
 ![Screenshot 3](https://github.com/metecan/orangebox/raw/main/assets/ss3.png)
 
+![Screenshot 4](https://github.com/metecan/orangebox/raw/main/assets/ss4.png)
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
