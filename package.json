@@ -4,6 +4,11 @@
   "description": "OrangeBox is a ornage based dark theme",
   "version": "0.0.1",
   "icon": "logo.png",
+  "publisher": "metecan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metecan/orangebox.git"
+  },
   "engines": {
     "vscode": "^1.104.0"
   },
