@@ -4,11 +4,11 @@ A carefully crafted dark theme for Visual Studio Code with warm orange accents f
 
 ## Screenshots
 
-![Screenshot 1](assets/ss1.png)
+![Screenshot 1](https://github.com/metecan/orangebox/raw/main/assets/ss1.png)
 
-![Screenshot 2](assets/ss2.png)
+![Screenshot 2](https://github.com/metecan/orangebox/raw/main/assets/ss2.png)
 
-![Screenshot 3](assets/ss3.png)
+![Screenshot 3](https://github.com/metecan/orangebox/raw/main/assets/ss3.png)
 
 ## Installation
 
