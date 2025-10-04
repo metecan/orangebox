@@ -2,6 +2,12 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+
+## [1.1.0] - 2025-10-04
+
+### Added
+- Introduced a new light theme variant with complementary orange accents for users who prefer a lighter interface
+
 ## [1.0.7] - 2025-10-04
 
 ## Changed
