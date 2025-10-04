@@ -2,6 +2,11 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.0.7] - 2025-10-04
+
+## Changed
+- Bundle size optimized for faster loading times and improved performance via compressing assets
+
 ## [1.0.6] - 2025-10-04
 
 ### Changed
