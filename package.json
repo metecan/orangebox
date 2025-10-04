@@ -1,8 +1,8 @@
 {
   "name": "orangebox-dark",
-  "displayName": "OrangeBox Dark",
-  "description": "OrangeBox is a orange based dark theme",
-  "version": "1.1.0",
+  "displayName": "OrangeBox Dark & Light",
+  "description": "OrangeBox is a orange based dark and light theme",
+  "version": "1.1.1",
   "icon": "logo-dark.png",
   "publisher": "metecan",
   "repository": {

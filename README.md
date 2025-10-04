@@ -1,6 +1,6 @@
-# OrangeBox Dark Theme
+# OrangeBox Dark & Light Theme
 
-A carefully crafted dark theme for Visual Studio Code with warm orange accents for better focus and reduced eye strain.
+A carefully crafted dark and light theme for Visual Studio Code with warm orange accents for better focus and reduced eye strain.
 
 ## Screenshots
 
@@ -22,10 +22,10 @@ A carefully crafted dark theme for Visual Studio Code with warm orange accents f
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `OrangeBox Dark`
+2. Search for `OrangeBox Dark` or `OrangeBox Light`
 3. Click **Install** to install it
 4. Click **Reload** to reload your editor
-5. Code > Preferences > Color Theme > **OrangeBox Dark**
+5. Code > Preferences > Color Theme > **OrangeBox Dark** or **OrangeBox Light**
 
 ## Enjoy!
 
