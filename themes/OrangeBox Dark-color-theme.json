@@ -480,13 +480,6 @@
         "foreground": "#DCDCAB"
       }
     },
-    // {
-    //   "name": "Underline",
-    //   "scope": ["underline"],
-    //   "settings": {
-    //     "text-decoration": "underline"
-    //   }
-    // },
     {
       "name": "None",
       "scope": ["none"],
