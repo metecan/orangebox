@@ -2,6 +2,12 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.1.3] - 2025-10-05
+
+### Changed
+- Updated Input box background color and menu background + border colors for better visibility
+- Updated README.md to include instructions for both Dark and Light themes
+
 ## [1.1.2] - 2025-10-04
 
 ### Changed

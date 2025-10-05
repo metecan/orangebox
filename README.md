@@ -14,10 +14,13 @@ A carefully crafted dark and light theme for Visual Studio Code with warm orange
 
 ![Screenshot 4](https://github.com/metecan/orangebox/raw/main/assets/ss4.png)
 
+![Screenshot 5](https://github.com/metecan/orangebox/raw/main/assets/ss5.png)
+
 ### Light Theme
 
-![Screenshot 5](https://github.com/metecan/orangebox/raw/main/assets/ss5.png)
 ![Screenshot 6](https://github.com/metecan/orangebox/raw/main/assets/ss6.png)
+
+![Screenshot 7](https://github.com/metecan/orangebox/raw/main/assets/ss7.png)
 
 ## Installation
 
