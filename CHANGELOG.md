@@ -2,6 +2,12 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.1.7] - 2025-10-05
+
+### Changed
+- Updated input border color to match the theme's accent color
+- Updated Command Palette background and border colors for better visibility
+
 ## [1.1.6] - 2025-10-05
 
 ### Changed
