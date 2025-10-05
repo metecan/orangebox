@@ -2,6 +2,11 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.1.6] - 2025-10-05
+
+### Changed
+- Updated screenshots in README.md to reflect the latest theme changes
+
 ## [1.1.5] - 2025-10-05
 
 ### Changed
