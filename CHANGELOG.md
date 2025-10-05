@@ -2,6 +2,12 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.1.4] - 2025-10-05
+
+### Changed
+- Updated .vscodeignore to exclude assets folder from the package to reduce bundle size
+- Removed commented-out code for underline settings in color theme file for cleaner code
+
 ## [1.1.3] - 2025-10-05
 
 ### Changed
