@@ -1677,6 +1677,62 @@
       "settings": {
         "foreground": "#7b1fa2"
       }
+    },
+    {
+      "name": "JSX Children",
+      "scope": "meta.jsx.children.tsx",
+      "settings": {
+        "foreground": "#383838"
+      }
+    },
+    {
+      "name": "JSX Tag",
+      "scope": "meta.tag.tsx",
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "name": "JSX Tag Without Attributes",
+      "scope": "meta.tag.without-attributes.tsx",
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "name": "TSX Block",
+      "scope": "meta.block.tsx",
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "name": "TSX Arrow",
+      "scope": "meta.arrow.tsx",
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "name": "TSX Variable Expression",
+      "scope": "meta.var.expr.tsx",
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "name": "TSX Source",
+      "scope": "source.tsx",
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "name": "Meta Tag",
+      "scope": "meta.tag",
+      "settings": {
+        "foreground": "#999999"
+      }
     }
   ]
 }

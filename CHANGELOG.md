@@ -2,6 +2,11 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.2.0] - 2025-10-07
+
+### Changed
+- Updated html spesific colors for better visibility and consistency in both Dark and Light themes
+
 ## [1.1.9] - 2025-10-05
 
 ### Changed

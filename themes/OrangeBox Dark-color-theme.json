@@ -1677,6 +1677,62 @@
       "settings": {
         "foreground": "#b267e6"
       }
+    },
+    {
+      "name": "JSX Children",
+      "scope": "meta.jsx.children.tsx",
+      "settings": {
+        "foreground": "#dbdbdb"
+      }
+    },
+    {
+      "name": "JSX Tag",
+      "scope": "meta.tag.tsx",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
+    },
+    {
+      "name": "JSX Tag Without Attributes",
+      "scope": "meta.tag.without-attributes.tsx",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
+    },
+    {
+      "name": "TSX Block",
+      "scope": "meta.block.tsx",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
+    },
+    {
+      "name": "TSX Arrow",
+      "scope": "meta.arrow.tsx",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
+    },
+    {
+      "name": "TSX Variable Expression",
+      "scope": "meta.var.expr.tsx",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
+    },
+    {
+      "name": "TSX Source",
+      "scope": "source.tsx",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
+    },
+    {
+      "name": "Meta Tag",
+      "scope": "meta.tag",
+      "settings": {
+        "foreground": "#6e6e6e"
+      }
     }
   ]
 }
