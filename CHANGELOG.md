@@ -2,6 +2,27 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.3.2] - 2026-06-03
+
+### Changed
+
+- **OrangeBox Dark** and **OrangeBox Dark Ultra**: replaced neutral grey/white active/selection colors with orange variants to match Dark Plus
+  - `list.activeSelectionBackground`, `menu.selectionBackground`, `menubar.selectionBackground`, `peekViewResult.selectionBackground`: `#EE824126`
+  - `editor.selectionBackground`: `#5C2E0080`
+  - `inputOption.activeBackground`, `peekViewEditor.matchHighlightBackground`, `peekViewResult.matchHighlightBackground`, `terminal.selectionBackground`: `#EE824133`
+  - `inputOption.hoverBackground`: `#EE82411A`
+
+## [1.3.1] - 2026-06-03
+
+### Changed
+
+- **OrangeBox Dark Plus**: replaced all blue-teal active/selection colors with orange variants
+  - `editor.selectionBackground`: `#5C2E00dd` (dark warm orange)
+  - `list.activeSelectionBackground`, `menu.selectionBackground`, `menubar.selectionBackground`: `#EE824126`
+  - `inputOption.activeBackground`, `peekViewEditor.matchHighlightBackground`, `peekViewResult.matchHighlightBackground`, `terminal.selectionBackground`: `#EE824133`
+  - `inputOption.hoverBackground`: `#EE82411A`
+  - `peekViewResult.selectionBackground`: `#EE824126`
+
 ## [1.3.0] - 2026-06-03
 
 ### Added
