@@ -2,6 +2,12 @@
 
 All notable changes to the "orangebox-dark" extension will be documented in this file.
 
+## [1.3.3] - 2026-06-25
+
+### Changed
+
+- Borders Updated
+
 ## [1.3.2] - 2026-06-03
 
 ### Changed

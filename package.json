@@ -2,7 +2,7 @@
   "name": "orangebox-dark",
   "displayName": "OrangeBox Dark & Light",
   "description": "OrangeBox is a orange based dark and light theme",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "icon": "logo-dark.png",
   "publisher": "metecan",
   "author": {
@@ -31,7 +31,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/OrangeBox Dark Plus-color-theme.json"
       },
-            {
+      {
         "label": "OrangeBox Dark Ultra",
         "uiTheme": "vs-dark",
         "path": "./themes/OrangeBox Dark Ultra-color-theme.json"
